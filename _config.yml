@@ -25,7 +25,7 @@ navbar-links:
     - My "Why": "summary"
   There:
     - Career: "career" 
-    - Resume: "resume"
+    - TL;DR: "resume"
   Elsewhere:
     - Projects: "projects"
     - What's Next?: "comingup"
