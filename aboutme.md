@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hi there!
-subtitle: Keep scrolling for an oversimplified life story
+subtitle: Here's what you need to know
 ---
 
 ## On September 13, 2007, a star was born. 
