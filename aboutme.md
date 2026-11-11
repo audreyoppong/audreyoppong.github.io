@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hi there!
-subtitle: Here's what you need to know
+title: About
+subtitle: The broad strokes
 ---
 
 ## On September 13, 2007, a star was born. 
@@ -10,19 +10,19 @@ subtitle: Here's what you need to know
 
 I was a few delivery rooms down, building my Github website. Here's what I have to show for it:
 
-I'm a second-year Computer Engineering major and Neuroscience Minor at Georgia Tech, studying here through the Stamps President's Scholarship Program. My specialties are in Signal & Information Processing/Artificial Intelligence as well as Distributed Systems & Software Design. Currently, I'm on track to graduate from Tech in May of 2029.
-
 ### Courses
-- Linear Algebra
-- Multivariable Calculus
-- Programming for Engineers
 - Introduction to Engineering Graphics
-- Digital Systems Design Fundamentals
 - Introduction to Neuroscience
+- Linear Algebra
+- Programming for Engineers
+
+#### In Progress
 - Cellular & Molecular Neuroscience
+- Digital Systems Design Fundamentals
+- Multivariable Calculus
 
 ### Skills
-- Programming: Java, JavaScript, MATLAB, Python
+- Programming: Java, MATLAB, Python
 - Data Analysis & Software: The MotionMonitor, EEGLAB, Excel
 - Hardware: Breadboarding, Arduino
 
