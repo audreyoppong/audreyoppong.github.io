@@ -22,12 +22,13 @@ author: Take a guess ;)
 navbar-links:
   Here: 
     - About Me: "aboutme"
+    - My "Why": "summary"
   There:
-    - Career: 
-    - Resume: 
+    - Career: "career" 
+    - Resume: "resume"
   Elsewhere:
-    - Projects: 
-    - Github: 
+    - Projects: "projects"
+    - What's Next?: "comingup"
 
 ################
 # --- Logo --- #
